@@ -1,5 +1,5 @@
 ###### Hotel API based on Spring
 
 Uses: 
-* Spring Security + Incognito
+* Spring Boot
 * DynamoDB 
